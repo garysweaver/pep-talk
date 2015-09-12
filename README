@@ -1,0 +1,36 @@
+pep-talk is a quote-file with pep talk quotes from Halls cough drops
+wrappers. It can be used with the Unix Fortune program.
+
+If anything is incorrect or missing or there is any problem with
+these being offered here, please let me know.
+
+Though the .dat file is provided, you are welcome to generate it on
+your own if fortune is installed by using:
+
+    strfile pep-talk
+
+Then copy pep-talk and pep-talk.dat to the directory containing the
+fortunes and get a random fortune using:
+
+    fortune pep-talk
+
+Collected and transcribed from various sources by Gary S. Weaver.
+Credit to the quotes themselves should be given to their original
+author(s).
+
+pep-talk Copyright (c) 2015 by Gary S. Weaver
+
+pep-talk is licensed under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
+
+     ________________ 
+    < Power through! >
+     ---------------- 
+            \   ^__^
+             \  (oo)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
